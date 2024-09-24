@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle":"${mod_id}:block/cell_partitioner_side",
+        "up": "${mod_id}:block/cell_partitioner_top",
+        "down": "${mod_id}:block/cell_partitioner_bottom",
+        "north": "${mod_id}:block/cell_partitioner_side",
+        "west": "${mod_id}:block/cell_partitioner_side",
+        "south": "${mod_id}:block/cell_partitioner_side",
+        "east": "${mod_id}:block/cell_partitioner_side"
+    }
+}

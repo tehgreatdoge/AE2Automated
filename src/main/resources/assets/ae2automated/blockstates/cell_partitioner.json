@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "${mod_id}:block/cell_partitioner"
+        }
+    }
+}
